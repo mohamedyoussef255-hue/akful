@@ -1,0 +1,6 @@
+{
+  "name": "EKFEL — أكفَل",
+  "description": "منصة التكافل الاجتماعي الإسلامي والرعاية المباشرة (P2P) في مصر والسعودية مع روبوت التحقق المالي الذكي ومكافحة الاحتيال وبوابة الإدارة الخفية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
